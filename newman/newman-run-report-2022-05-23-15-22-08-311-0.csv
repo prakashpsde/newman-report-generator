@@ -1,0 +1,4 @@
+iteration,collectionName,requestName,method,url,status,code,responseTime,responseSize,executed,failed,skipped
+"1","Sample Postman Collection","A simple GET request","GET","https://postman-echo.com/get?source=newman-sample-github-collection",,,,,,"expect response be 200, expect response json contain args"
+"1","Sample Postman Collection","A simple POST request","POST","https://postman-echo.com/post"
+"1","Sample Postman Collection","A simple POST request with JSON body","POST","https://postman-echo.com/post"
